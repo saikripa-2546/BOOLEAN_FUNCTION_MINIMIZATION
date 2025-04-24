@@ -52,6 +52,7 @@ endmodule
 **Logic symbol and truth table**
 
 ![image](https://github.com/user-attachments/assets/312a5b5e-6e0e-45ed-a690-10b9cc01ab4e)
+
 ![image](https://github.com/user-attachments/assets/02a84a58-7138-4cd2-a9a5-1c5e5ebed9f0)
 
 **RTL realization**
